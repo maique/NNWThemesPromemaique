@@ -75,7 +75,7 @@ pre {
 		--header-color: rgba(94, 158, 244, 1);
 		--body-code-color: #b2b2b2;
 		--system-message-color: #5f5f5f;
-		--feedlink-color: rgba(94, 158, 244, 1);
+		--feedlink-color: rgba(254, 126, 176, 1);
 		--article-title-color: #e0e0e0;
 		--article-date-color: rgba(255, 255, 255, 0.5);
 		--table-cell-border-color: dimgray;
@@ -125,7 +125,7 @@ body > .systemMessage {
 	padding-bottom: 12px;
 	text-align: center;
 	margin: auto;
-       font-family: 'Roboto', sans-serif;
+	   font-family: 'Roboto', sans-serif;
 }
 
 .articleDateline {
@@ -583,8 +583,8 @@ a.footnote:hover,
 
 	@media(prefers-color-scheme: dark) {
 		:root {
-			--primary-accent-color: #2D80F1;
-			--secondary-accent-color: #5E9EF4;
+			--primary-accent-color: #fe7eb0;
+			--secondary-accent-color: #fe7eb0;
 			--block-quote-border-color: rgba(94, 158, 244, 0.75);
 			--header-table-border-color: rgba(255, 255, 255, 0.2);
 		}
