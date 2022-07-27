@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>Name</key>
-	<string>Promenade</string>
+	<string>Promemaique</string>
 	<key>ThemeIdentifier</key>
-	<string>com.mynameisstuart.themes.promenade</string>
+	<string>com.maique.themes.promenade</string>
 	<key>CreatorHomePage</key>
-	<string>https://mynameisstuart.com/</string>
+	<string>https://maique.omg.lol/</string>
 	<key>CreatorName</key>
-	<string>Stuart Breckenridge</string>
+	<string>maique madeira</string>
 	<key>Version</key>
-	<integer>14</integer>
+	<integer>1</integer>
 </dict>
 </plist>
