@@ -84,7 +84,7 @@ pre {
 	}
 }
 
-body { background-color: var(--back-color); }
+body { background: var(--back-color); }
 
 body .headerTable {
 	border-bottom: 1px solid var(--header-table-border-color);
