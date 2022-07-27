@@ -68,6 +68,7 @@ pre {
 	--article-title-color: #333;
 	--article-date-color: rgba(0, 0, 0, 0.3);
 	--table-cell-border-color: lightgray;
+	--back-color: #fff;
 }
 
 @media(prefers-color-scheme: dark) {
@@ -79,6 +80,7 @@ pre {
 		--article-title-color: #e0e0e0;
 		--article-date-color: rgba(255, 255, 255, 0.5);
 		--table-cell-border-color: dimgray;
+			--back-color: #222;
 	}
 }
 
